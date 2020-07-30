@@ -1,0 +1,13 @@
+＃！name = Aweme
+＃！desc = Aweme应用程序删除广告。
+＃！system = ios
+
+[URL重写]
+^ https：// aweme-eagle（。*）\ .snssdk \ .com / aweme / v2 / https：//aweme-eagle$1.snssdk.com/aweme/v1/ 302
+
+[脚本]
+http-请求^ https：\ / \ /.* \。amemv \ .com \ / aweme \ / v。* \ /（feed | post）script-path = https：//Choler.github.io/Surge/Script /Aweme.js
+http-响应^ https：\ / \ /.* \。amemv \ .com \ / aweme \ / v。* \ /（feed | post）require-body = true，script-path = https：//Choler.github .io / Surge / Script / Aweme.js
+
+[MITM]
+主机名=％APPEND％* .amemv.com，*。snssdk.com
