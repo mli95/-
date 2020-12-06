@@ -1,2 +1,4 @@
 s5 = http, 222.129.37.185, 24413,
 s1 = http, 222.129.35.5, 37758,
+1 = ss, 144.34.163.48, 29138, encrypt-method=aes-256-gcm, password=G98TwJ35Lg, no-error-alert=true
+2 = ss, c32s2.jamjams.net, 29138, encrypt-method=aes-256-gcm, password=G98TwJ35Lg, no-error-alert=true
