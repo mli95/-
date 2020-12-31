@@ -2,5 +2,5 @@
 
 */
 
-body = $response.body.replace(/\"userId\":190313135/, "\"userId\":199313135")
+body = $response.body.replace(/\"message\":ok/, "\"userId\":199313135")
 $done({body});
