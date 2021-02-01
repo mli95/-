@@ -1,0 +1,21 @@
+{
+  "id": "chavyleung.app.sub",
+  "name": "m1995",
+  "author": "os",
+  "icon": "https://avatars3.githubusercontent.com/u/29748519?s=460&u=392a19e85465abbcb1791c9b8b32184a16e6795e&v=4",
+  "repo": "https://github.com/chavyleung/scripts",
+  "apps": [
+  
+  
+    {
+      "id": "chavyleung.10086",
+      "name": "10086",
+      "keys": ["chavy_autologin_cmcc", "chavy_getfee_cmcc", "chavy_tokenurl_10086", "chavy_tokenheader_10086", "chavy_signurl_10086", "chavy_signheader_10086"],
+      "author": "@wangfei021325, @chavyleung",
+      "repo": "https://github.com/chavyleung/scripts/blob/master/10086/10086.js",
+      "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/10086/10086.js",
+      "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/10086.png", "https://raw.githubusercontent.com/Orz-3/task/master/10086.png"]
+    },
+    
+  ]
+}
