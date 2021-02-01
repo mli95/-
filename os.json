@@ -6,8 +6,8 @@
 	"repo": "https://github.com/songyangzz/QuantumultX",
 	"apps": [
 		{
-			"id": "chavyleung.10086",
-      "name": "10086",
+			"id": "free10086",
+      "name": "10086余额",
       "keys": ["chavy_autologin_cmcc", "chavy_getfee_cmcc"],
       "author": "@wangfei021325, @chavyleung",
       "repo": "https://github.com/chavyleung/scripts/blob/master/10086/10086.js",
