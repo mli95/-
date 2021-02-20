@@ -23,5 +23,4 @@ jobs:
             - name: "运行【tt】"
               run: |
                   node tantan.js
-              env:
-                  JD_COOKIE: ${{ secrets.JD_COOKIE }}
+ 
