@@ -1,8 +1,4 @@
 
-/**
- * @fileoverview Template to compose HTTP reqeuest.
- * 
- */
 
 const url = `https://web-api.tantanapp.com/v2/users/me/relationships/40842526`;
 const method = `PUT`;
