@@ -1,4 +1,4 @@
-name: JOY挂机
+name: tant
 
 on:
     workflow_dispatch:
@@ -20,8 +20,8 @@ jobs:
             - name: npm install
               run: |
                   npm install
-            - name: "运行【JOY挂机】"
+            - name: "运行【tt】"
               run: |
-                  node jd_crazy_joy_coin.js
+                  node tantan.js
               env:
                   JD_COOKIE: ${{ secrets.JD_COOKIE }}
