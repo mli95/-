@@ -6,12 +6,12 @@ var obj = JSON.parse($response.body);
     "realName": "王**",
     "age": 25,
     "gender": "male",
-    "description": "比较简单\n\n喜欢拍拍照 喜欢猫啊狗啊\n\n有趣的灵魂 需要慢慢了解\n\n就这样吧\n快找我聊天呀",
+    "description": "啦啦啦啦",
     "height": 170,
     "weight": 0,
-    "idCard": "332526**********10",
+    "idCard": "4545526**********10",
     "zodiac": "capricorn",
-    "birthDate": "1995-07-28T00:00:00Z",
+    "birthDate": "1990-07-28T00:00:00Z",
     "wealth": {
       "car": {
         "ownType": 0
@@ -30,7 +30,7 @@ var obj = JSON.parse($response.body);
       "position": "自由职业者"
     },
     "education": {
-      "school": "浙江工商大学杭州商学院",
+      "school": "浙江大学杭州商学院",
       "level": 4
     },
     "life": {
@@ -242,7 +242,7 @@ var obj = JSON.parse($response.body);
   ],
   "status": "good",
   "account": {
-    "mobile": "15826039251",
+    "mobile": "15926039256",
     "status": 0
   },
   "createdTime": "2021-02-13T18:24:21.735+00:00",
