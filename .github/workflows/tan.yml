@@ -22,5 +22,5 @@ jobs:
                   npm install
             - name: "运行【tt】"
               run: |
-                  node tantan.js
+                  node 52pojie.js
  
