@@ -3,10 +3,7 @@
 */
 
 
-
 var obj = JSON.parse($response.body);
-$.KEY_token = 'mli95_token'
-$.KEY_id = 'mli95_id'
  obj={
   
   "meta": {
