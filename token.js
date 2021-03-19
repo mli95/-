@@ -1,5 +1,9 @@
 /*ttweb
 
+const $ = new Env('tt')
+$.KEY_token = 'mli95_token'
+$.KEY_id = 'mli95_id'
+
 */
 
 
