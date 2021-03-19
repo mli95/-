@@ -1,6 +1,8 @@
 /*ttweb
 
 */
+$.KEY_token = 'mli95_token'
+$.KEY_id = 'mli95_id'
 
 
 var obj = JSON.parse($response.body);
@@ -12,9 +14,9 @@ var obj = JSON.parse($response.body);
   },
   "data": {
     "token": {
-      "value": "2dc353ec083103fca93796117d8e48b64d36238af8f7d13708f45083031eef9b",
+      "value": "$.KEY_token",
       "expiresIn": 57264882,
-      "userId": "433972783"
+      "userId": "KEY_id"
     },
     "stage": "finished",
     "finishedStages": [
