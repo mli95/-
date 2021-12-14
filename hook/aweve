@@ -1,4 +1,3 @@
-#define AwemeFile(path) @"@executable_path/iPatchDylibs/" #path
 
 %hook TTNetworkManagerChromium
  
