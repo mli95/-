@@ -1,0 +1,10 @@
+#define AwemeFile(path) @"@executable_path/iPatchDylibs/" #path
+
+%hook TTNetworkManagerChromium
+ 
+- (NSArray *)ServerCertificate {
+    return nil;
+}
+ 
+%end
+
